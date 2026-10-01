@@ -108,7 +108,7 @@
       </P>
     </V>
     <V Name="Box1" Parent="fd6e8ee6-01df-4de8-b206-99fd3d31bd92" xsi:type="e3d:BoxVisual">
-      <LR>-0.75251776|0.5|0.06037259|||</LR>
+      <LR>3.3277798|0.5|1.4200823|||</LR>
       <Id>7651381e-45aa-49db-aa3f-9a6d6878c3b0</Id>
       <P xsi:type="e3d:BoxProperties">
         <Depth>1</Depth>
