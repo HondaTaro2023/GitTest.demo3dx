@@ -92,6 +92,37 @@
         <Width>1</Width>
       </P>
     </V>
+    <V Name="Box4" Parent="fd6e8ee6-01df-4de8-b206-99fd3d31bd92" xsi:type="e3d:BoxVisual">
+      <LR>1.100416|0.5|-5.458829|||</LR>
+      <Id>42643d03-ca93-47f3-b29d-975f887a9007</Id>
+      <P xsi:type="e3d:BoxProperties">
+        <Depth>1</Depth>
+        <ExtraMaterials>
+          <MeshMaterials>
+            <e xsi:type="e3d:MeshMaterial">
+              <Diffuse>-9868951</Diffuse>
+            </e>
+            <e xsi:type="e3d:MeshMaterial">
+              <Diffuse>-1</Diffuse>
+            </e>
+          </MeshMaterials>
+        </ExtraMaterials>
+        <FrictionMaterial>
+          <Name>Corrugated</Name>
+        </FrictionMaterial>
+        <Height>1</Height>
+        <Material>
+          <MeshMaterial xsi:type="e3d:MeshMaterial">
+            <Diffuse>-9807155</Diffuse>
+          </MeshMaterial>
+        </Material>
+        <NewNameExpr>
+          <E>"Box"+ID</E>
+        </NewNameExpr>
+        <Type>Box</Type>
+        <Width>1</Width>
+      </P>
+    </V>
     <V Name="Light1" Parent="fd6e8ee6-01df-4de8-b206-99fd3d31bd92" xsi:type="e3d:LightVisual">
       <LR>-1|3.4641016|-1.7320508|1.0471976|0.5235988|</LR>
       <ILR>|||||</ILR>
@@ -108,7 +139,7 @@
       </P>
     </V>
     <V Name="Box2" Parent="fd6e8ee6-01df-4de8-b206-99fd3d31bd92" xsi:type="e3d:BoxVisual">
-      <LR>1.6866102|0.5|-1.1516085|||</LR>
+      <LR>1.7890828|0.5|-0.46332073|||</LR>
       <Id>6f1b976e-a6d9-4657-a283-b8547c6b4236</Id>
       <P xsi:type="e3d:BoxProperties">
         <Depth>1</Depth>
@@ -139,7 +170,7 @@
       </P>
     </V>
     <V Name="Box1" Parent="fd6e8ee6-01df-4de8-b206-99fd3d31bd92" xsi:type="e3d:BoxVisual">
-      <LR>0.18765068|0.5|2.847909|||</LR>
+      <LR>3.3277798|0.5|1.4200823|||</LR>
       <Id>7651381e-45aa-49db-aa3f-9a6d6878c3b0</Id>
       <P xsi:type="e3d:BoxProperties">
         <Depth>1</Depth>
