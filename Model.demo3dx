@@ -169,6 +169,37 @@
         <Width>1</Width>
       </P>
     </V>
+    <V Name="Box4" Parent="fd6e8ee6-01df-4de8-b206-99fd3d31bd92" xsi:type="e3d:BoxVisual">
+      <LR>-7.865221|0.5|4.5501785|||</LR>
+      <Id>b7d2dccc-3fe4-4ee8-958a-5164134ef821</Id>
+      <P xsi:type="e3d:BoxProperties">
+        <Depth>1</Depth>
+        <ExtraMaterials>
+          <MeshMaterials>
+            <e xsi:type="e3d:MeshMaterial">
+              <Diffuse>-9868951</Diffuse>
+            </e>
+            <e xsi:type="e3d:MeshMaterial">
+              <Diffuse>-1</Diffuse>
+            </e>
+          </MeshMaterials>
+        </ExtraMaterials>
+        <FrictionMaterial>
+          <Name>Corrugated</Name>
+        </FrictionMaterial>
+        <Height>1</Height>
+        <Material>
+          <MeshMaterial xsi:type="e3d:MeshMaterial">
+            <Diffuse>-1</Diffuse>
+          </MeshMaterial>
+        </Material>
+        <NewNameExpr>
+          <E>"Box"+ID</E>
+        </NewNameExpr>
+        <Type>Box</Type>
+        <Width>1</Width>
+      </P>
+    </V>
   </Visuals>
   <TagImporterPropertiesFile></TagImporterPropertiesFile>
   <TagConfigurationFolder>connections</TagConfigurationFolder>
